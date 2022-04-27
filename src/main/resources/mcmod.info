@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
+  "modid": "rm",
+  "name": "Repeat Crossbow",
+  "description": "Adds a single crossbow that shoots a projectile every time the player right clicks.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["YangMC255"],
+  "credits": "The Forge and FML guys, for making this example, and MrCrayFish & TechnoVision for their tutorials.",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
