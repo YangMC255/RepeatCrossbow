@@ -1,8 +1,8 @@
-package com.yangmc255.repeatcrossbow.items;
+package com.yangmc255.yangsadditions.items;
 
-import com.yangmc255.repeatcrossbow.Main;
-import com.yangmc255.repeatcrossbow.init.ModItems;
-import com.yangmc255.repeatcrossbow.util.IHasModel;
+import com.yangmc255.yangsadditions.Main;
+import com.yangmc255.yangsadditions.init.ModItems;
+import com.yangmc255.yangsadditions.util.IHasModel;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
 

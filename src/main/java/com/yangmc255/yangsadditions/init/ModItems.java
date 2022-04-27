@@ -1,8 +1,8 @@
-package com.yangmc255.repeatcrossbow.init;
+package com.yangmc255.yangsadditions.init;
 
 import java.util.*;
 
-import com.yangmc255.repeatcrossbow.items.ItemBase;
+import com.yangmc255.yangsadditions.items.ItemBase;
 import net.minecraft.item.Item;
 
 public class ModItems {

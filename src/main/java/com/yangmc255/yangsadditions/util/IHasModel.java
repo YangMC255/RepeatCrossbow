@@ -1,4 +1,4 @@
-package com.yangmc255.repeatcrossbow.util;
+package com.yangmc255.yangsadditions.util;
 
 public interface IHasModel {
 

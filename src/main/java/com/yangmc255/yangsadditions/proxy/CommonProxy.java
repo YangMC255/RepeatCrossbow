@@ -1,4 +1,4 @@
-package com.yangmc255.repeatcrossbow.proxy;
+package com.yangmc255.yangsadditions.proxy;
 
 import net.minecraft.item.Item;
 

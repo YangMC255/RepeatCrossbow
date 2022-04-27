@@ -1,7 +1,7 @@
-package com.yangmc255.repeatcrossbow.util.handlers;
+package com.yangmc255.yangsadditions.util.handlers;
 
-import com.yangmc255.repeatcrossbow.init.ModItems;
-import com.yangmc255.repeatcrossbow.util.IHasModel;
+import com.yangmc255.yangsadditions.init.ModItems;
+import com.yangmc255.yangsadditions.util.IHasModel;
 import net.minecraft.item.Item;
 import net.minecraftforge.client.event.ModelRegistryEvent;
 import net.minecraftforge.event.RegistryEvent;

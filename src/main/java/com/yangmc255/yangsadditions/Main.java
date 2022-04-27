@@ -1,7 +1,7 @@
-package com.yangmc255.repeatcrossbow;
+package com.yangmc255.yangsadditions;
 
-import com.yangmc255.repeatcrossbow.proxy.CommonProxy;
-import com.yangmc255.repeatcrossbow.util.Reference;
+import com.yangmc255.yangsadditions.proxy.CommonProxy;
+import com.yangmc255.yangsadditions.util.Reference;
 
 import net.minecraftforge.fml.common.Mod;
 import net.minecraftforge.fml.common.Mod.EventHandler;
