@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+
+  "pattern":
+  [
+    " TS",
+    "TI ",
+    "S I"
+  ],
+
+  "key":
+  {
+    "T":
+    {
+      "item": "minecraft:stick"
+    },
+    "I":
+    {
+      "item": "minecraft:iron_ingot"
+    },
+    "S":
+    {
+      "item": "minecraft:string"
+    }
+  },
+
+  "result":
+  {
+    "item": "yangsadditions:repeat_crossbow",
+    "count": 1
+  }
+}
